@@ -5,4 +5,7 @@
 
 😄 You can visit my personal website on : https://dargoz.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=dargoz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dargoz&count_private=true&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dargoz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
