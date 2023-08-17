@@ -16,6 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dargoz)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dargoz)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11060068/davin-reinaldo-gozali)
 <div>
   <a href="https://github.com/dargoz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dargoz&count_private=true&show_icons=true&theme=dracula"/>
